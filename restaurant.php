@@ -16,19 +16,19 @@
 	 <div class="top-header">
 		 <div class="container">
 			 <div class="logo">
-				 <a href="index.html"><img src="images/logo.png"/></a>
+				 <a href="index.php"><img src="images/logo.png"/></a>
 			 <div class="clearfix"></div>
 			 </div>
 			 <span class="menu"> </span>
 			 <div class="m-clear"></div>
 			 <div class="top-menu">
 			     <ul>
-					 <li><a href="index.html">HOME</a></li>
-					 <li><a href="facilities.html">FACILITIES</a></li>
-					 <li class="active"><a href="restaurant.html">RESTAURANT</a></li>
-					 <li><a href="conference.html">CONFERENCE</a></li>
-					 <li><a href="booking.html">BOOKING</a></li>
-					 <li><a  href="contact.html">CONTACT US</a></li>
+					 <li><a href="index.php">HOME</a></li>
+					 <li><a href="facilities.php">FACILITIES</a></li>
+					 <li class="active"><a href="restaurant.php">RESTAURANT</a></li>
+					 <li><a href="conference.php">CONFERENCE</a></li>
+					 <li><a href="booking.php">BOOKING</a></li>
+					 <li><a  href="contact.php">CONTACT US</a></li>
 						<div class="clearfix"></div>
 				 </ul>
 				 <script>
@@ -49,7 +49,7 @@
 				 <a href="#"><img src="images/pic1.jpg" alt=""/></a>
 				 <div class="caption">
 					<span>&#8356; 250</span>
-					<a href="contact.html">Book Now</a>
+					<a href="contact.php">Book Now</a>
 				 </div>
 				 <h4>Lorem ipsum dolor</h4>
 				 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque lectus vitae dui sollicitudin commodo.</p>
@@ -66,7 +66,7 @@
 				 <a href="#"><img src="images/pic2.jpg" alt=""/></a>
 				 <div class="caption">
 					<span>&#8356; 250</span>
-					<a href="contact.html">Book Now</a>
+					<a href="contact.php">Book Now</a>
 				 </div>
 				 <h4>Lorem ipsum dolor</h4>
 				 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque lectus vitae dui sollicitudin commodo.</p>
@@ -83,7 +83,7 @@
 				 <a href="#"><img src="images/pic3.jpg" alt=""/></a>
 				 <div class="caption">
 					<span>&#8356; 250</span>
-					<a href="contact.html">Book Now</a>
+					<a href="contact.php">Book Now</a>
 				 </div>
 				 <h4>Lorem ipsum dolor</h4>
 				 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque lectus vitae dui sollicitudin commodo.</p>
@@ -101,7 +101,7 @@
 				 <a href="#"><img src="images/pic4.jpg" alt=""/></a>
 				 <div class="caption">
 					<span>&#8356; 250</span>
-					<a href="contact.html">Book Now</a>
+					<a href="contact.php">Book Now</a>
 				 </div>
 				 <h4>Lorem ipsum dolor</h4>
 				 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque lectus vitae dui sollicitudin commodo.</p>
@@ -118,7 +118,7 @@
 				 <a href="#"><img src="images/pic5.jpg" alt=""/></a>
 				 <div class="caption">
 					<span>&#8356; 250</span>
-					<a href="contact.html">Book Now</a>
+					<a href="contact.php">Book Now</a>
 				 </div>
 				 <h4>Lorem ipsum dolor</h4>
 				 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque lectus vitae dui sollicitudin commodo.</p>
@@ -135,7 +135,7 @@
 				 <a href="#"><img src="images/pic6.jpg" alt=""/></a>
 				 <div class="caption">
 					<span>&#8356; 250</span>
-					<a href="contact.html">Book Now</a>
+					<a href="contact.php">Book Now</a>
 				 </div>
 				 <h4>Lorem ipsum dolor</h4>
 				 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent scelerisque lectus vitae dui sollicitudin commodo.</p>

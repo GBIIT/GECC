@@ -23,12 +23,12 @@
 			 <div class="m-clear"></div>
 			 <div class="top-menu">
 				<ul>
-					 <li><a href="index.html">HOME</a></li>
-					 <li><a href="facilities.html">FACILITIES</a></li>
-					 <li><a href="restaurant.html">RESTAURANT</a></li>
-					 <li><a href="conference.html">CONFERENCE</a></li>
-					 <li><a href="booking.html">BOOKING</a></li>
-					 <li class="active"><a href="contact.html">CONTACT US</a></li>
+					 <li><a href="index.php">HOME</a></li>
+					 <li><a href="facilities.php">FACILITIES</a></li>
+					 <li><a href="restaurant.php">RESTAURANT</a></li>
+					 <li><a href="conference.php">CONFERENCE</a></li>
+					 <li><a href="booking.php">BOOKING</a></li>
+					 <li class="active"><a href="contact.php">CONTACT US</a></li>
 						<div class="clearfix"></div>
 				 </ul>
 				 <script>
@@ -65,7 +65,7 @@
 				<div class="contact_right">
 				  <div class="contact-form">
 				  	<h3 class="style">Contact Us</h3>
-					    <form method="post" action="index.html">
+					    <form method="post" action="index.php">
 					    	<div>
 						    	<span><label>NAME</label></span>
 						    	<span><input name="userName" type="text" class="textbox"></span>
