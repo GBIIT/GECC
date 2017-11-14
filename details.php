@@ -16,19 +16,19 @@
 	 <div class="top-header">
 		 <div class="container">
 			 <div class="logo">
-				 <a href="index.html"><img src="images/logo.png"/></a>
+				 <a href="index.php"><img src="images/logo.png"/></a>
 			 <div class="clearfix"></div>
 			 </div>
 			 <span class="menu"> </span>
 			 <div class="m-clear"></div>
 			 <div class="top-menu">
 				<ul>
-					 <li><a class="scroll" href="index.html">HOME</a></li>
-					 <li class="active"><a href="facilities.html" class="scroll">FACILITIES</a></li>
-					 <li><a class="scroll" href="restaurant.html">RESTAURANT</a></li>
-					 <li><a class="scroll" href="conference.html">CONFERENCE</a></li>
-					 <li><a class="scroll" href="booking.html">BOOKING</a></li>
-					 <li><a class="scroll" href="contact.html">CONTACT US</a></li>
+					 <li><a class="scroll" href="php.html">HOME</a></li>
+					 <li class="active"><a href="facilities.php" class="scroll">FACILITIES</a></li>
+					 <li><a class="scroll" href="restaurant.php">RESTAURANT</a></li>
+					 <li><a class="scroll" href="conference.php">CONFERENCE</a></li>
+					 <li><a class="scroll" href="booking.php">BOOKING</a></li>
+					 <li><a class="scroll" href="contact.php">CONTACT US</a></li>
 						<div class="clearfix"></div>
 				 </ul>
 				 <script>
