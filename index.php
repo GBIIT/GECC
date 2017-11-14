@@ -16,18 +16,18 @@
 	 <div class="top-header">
 		 <div class="container">
 			 <div class="logo">
-				 	<a href="index.html"><img src="images/logo.png"/></a>
+				 	<a href="index.php"><img src="images/logo.png"/></a>
 			 </div>
 			 <span class="menu"> </span>
 			 <div class="m-clear"></div>
 			 <div class="top-menu">
 				<ul>
-					 <li class="active"><a href="index.html">HOME</a></li>
-					 <li><a class="scroll" href="facilities.html">FACILITIES</a></li>
-					 <li><a class="scroll" href="restaurant.html">RESTAURANT</a></li>
-					 <li><a class="scroll" href="conference.html">CONFERENCE</a></li>
-					 <li><a class="scroll" href="booking.html">BOOKING</a></li>
-					 <li><a class="scroll" href="contact.html">CONTACT US</a></li>
+					 <li class="active"><a href="index.php">HOME</a></li>
+					 <li><a class="scroll" href="facilities.php">FACILITIES</a></li>
+					 <li><a class="scroll" href="restaurant.php">RESTAURANT</a></li>
+					 <li><a class="scroll" href="conference.php">CONFERENCE</a></li>
+					 <li><a class="scroll" href="booking.php">BOOKING</a></li>
+					 <li><a class="scroll" href="contact.php">CONTACT US</a></li>
 				</ul>
 				<script>
 					$("span.menu").click(function(){
