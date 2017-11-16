@@ -16,7 +16,7 @@
 	 <div class="top-header">
 		 <div class="container">
 			 <div class="logo">
-				 	<a href="index.php"><img src="images/logo.png"/></a>
+				 	<a href="index.php"><img src="images/.png"/></a>
 			 </div>
 			 <span class="menu"> </span>
 			 <div class="m-clear"></div>
@@ -41,7 +41,7 @@
 	  <div class="banner">
 			<div class="banner-info text-center">
 			<h3><label>Hello,</label> You've Reached</h3>
-			<h1>GECC</h1>
+			<h1>GIMPA EXECUTIVE CONFERENCE CENTRE </h1>
 			<span></span>
 			<ul>
 			 <li><a class="scroll" href="#">HOTEL</a><i class="line"></i></li>
