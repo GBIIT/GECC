@@ -27,7 +27,7 @@ text-decoration: none;
 }
 /*-----start-header----*/
 .top-header{
-background:#2A2E33;
+background:#09D109;
 }
 .logo{
 float:left;
@@ -61,19 +61,19 @@ color:#fff;
 font-size:12px;
 padding:2.5em 1.5em;
 display:block;
-border-top:2px solid #2A2E33;
+border-top:2px solid #0073B0;
 font-weight: 600;
 }
 .top-menu ul li.active a{
-background:#1E2329;
+background:#0073B0;
 color:#fff;
-border-top:2px solid #FFD700;
+border-top:2px solid #fff;
 font-weight: 600;
 }
 .top-menu ul li a:hover{
-background:#1E2329;
+background:#0073B0;
 color:#fff;
-border-top:2px solid #FFD700;
+border-top:2px solid #fff;
 }
 .banner{
 background:#0073B0;
